@@ -1,4 +1,4 @@
-# Restaurant Website
+# Restaurant Biiling System
 
 A modern and responsive restaurant website designed and developed using HTML, CSS, and JavaScript.
 
